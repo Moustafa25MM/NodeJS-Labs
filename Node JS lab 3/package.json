@@ -1,0 +1,19 @@
+{
+  "name": "node-js-lab-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "pug": "^3.0.2"
+  }
+}
